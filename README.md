@@ -126,16 +126,8 @@ footer
 }
 
 
-## OUTPUT
-
-
-![IMG-20230611-WA0034](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/592d5ac5-5125-4e4e-b325-a7924db91684)
-
-
-
-
-
-
+# OUTPUT
+![download (1)](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/0b1b344a-47dd-4bd7-8d17-258d173d95a0)
 
 
 ## RESULT:
