@@ -129,7 +129,8 @@ footer
 ## OUTPUT
 
 
-<![1686480659895](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/8c7fab66-bf9d-44d0-995a-84facc79f9a2)>
+![IMG-20230611-WA0034](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/592d5ac5-5125-4e4e-b325-a7924db91684)
+
 
 
 
