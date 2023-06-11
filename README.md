@@ -99,7 +99,8 @@ Upload your HTML, CSS, and any other necessary files to the hosting server.
     
 
 ### CSS CODE:
-```      body{
+```     
+       body{
     background-color: black;
    margin:50px;
 }
@@ -128,7 +129,7 @@ footer
 ## OUTPUT
 
 
-![1686480659895](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/8c7fab66-bf9d-44d0-995a-84facc79f9a2)
+<![1686480659895](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/8c7fab66-bf9d-44d0-995a-84facc79f9a2)>
 
 
 
