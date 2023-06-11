@@ -125,10 +125,10 @@ footer
    justify-content:space-around;
 }
 
+```
+## OUTPUT
 
-# OUTPUT
-
-    <img width="362" alt="image" src="![IMG-20230611-WA0034](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/8f28dd05-9d17-4f75-abe1-bc6665795788)">   
+  ![IMG-20230611-WA0034](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/8f28dd05-9d17-4f75-abe1-bc6665795788)
 
 
 ## RESULT:
