@@ -127,7 +127,8 @@ a{
 
 ## OUTPUT
 
-![image](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/fcbdb4d8-8348-4b0b-a25d-f82ff7cdd03e)
+![image](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/2abc07d2-f99c-42b0-a75e-874495629ff2)
+
 
 
 
