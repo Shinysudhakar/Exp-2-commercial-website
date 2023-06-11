@@ -104,7 +104,7 @@ Upload your HTML, CSS, and any other necessary files to the hosting server.
    margin:50px;
 }
 
-#header
+header
 {
     display:flex;
     justify-content:space-around;
@@ -118,7 +118,7 @@ a{
     font-size:20px;
     color:white;
 }
-#footer
+footer
 {
    display: flex;
    justify-content:space-around;
@@ -127,7 +127,8 @@ a{
 
 ## OUTPUT
 
-![1686480659895](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/59d08ad5-d47f-4a87-92fc-4ccc5fdc8b76)
+
+![1686480659895](https://github.com/Shinysudhakar/Exp-2-commercial-website/assets/127575325/f296da37-8231-4358-8b31-095cbf37391f)
 
 
 
